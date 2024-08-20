@@ -1,5 +1,5 @@
 # UW-Madison-Operating-Systems
-These are the projects I completed in CS537: Operating Systems in Spring, 2023. The main objectes of each are listed below:
+These are the projects I completed for CS537: Operating Systems in Spring, 2023. The main objectes of each are listed below:
 1. **p1-Fortune_Teller**
     - Familiarize with a shell / terminal / command-line of UNIX
     - Learn about how UNIX command line utilities are implemented
