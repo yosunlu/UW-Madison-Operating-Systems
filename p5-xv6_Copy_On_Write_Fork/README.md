@@ -129,5 +129,3 @@ make qemu-gdb
 make qemu-nox-gdb
 ```
 
-This project was developed following the specifications provided in the Project 5 Assignment for CS537. The primary objectives were:
-
